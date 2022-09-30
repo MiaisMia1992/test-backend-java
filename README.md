@@ -10,7 +10,7 @@ Build a RESTful API that can `get/create/update/delete` user data from a persist
 
 ```
 {
-  "id": "xxx",                  // user ID 
+  "id": "xxxx",                  // user ID 
   "name": "test",               // user name
   "dob": "",                    // date of birth
   "address": "",                // user address
